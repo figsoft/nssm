@@ -1,6 +1,6 @@
 # NSSM
 
-**全称**：Non-Sucking Service Manager
+**全称**：Non-Sucking Service Manager，作者：https://www.nssm.cc
 
 **一句话**：把任意 exe、bat、php-cgi、nginx 等控制台程序包装成 Windows 系统服务，自带进程守护，程序崩溃自动重启。
 
